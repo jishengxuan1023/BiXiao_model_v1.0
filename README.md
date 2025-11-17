@@ -1,5 +1,6 @@
 # BiXiao Model — v1.0: Minimal Executable Demonstration Package
 
+The BeXiaoCastNet3D.ts and BiXiaoCastNet3DENV.ts should be downloaded firstly in Zenodo ([![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17591610.svg)](https://doi.org/10.5281/zenodo.17591610))
 This package provides a minimal executable demonstration of the **BiXiao atmospheric environmental forecasting model**.  
 The input data required for driving the meteorological module and the environmental module are stored in the directories `input_met` and `input_env`, respectively.
 
